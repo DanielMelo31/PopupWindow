@@ -1,4 +1,5 @@
 # PopupWindow
 
 Example
-![Screenshot_1611094155](https://user-images.githubusercontent.com/59510282/105099533-d53cb400-5a79-11eb-95c3-4c14eb4c3cbb.png)
+
+![Screenshot from 2021-01-19 17-16-51](https://user-images.githubusercontent.com/59510282/105099815-441a0d00-5a7a-11eb-8c4b-576e99e999d5.png)
